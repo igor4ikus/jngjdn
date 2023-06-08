@@ -14,6 +14,6 @@ public class Company {
         this.foundingDate = foundingDate;
         this.founder = founder;
     }
-
+//I Am truly loshara//
 
 }
